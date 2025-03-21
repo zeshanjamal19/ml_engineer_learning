@@ -1,0 +1,1 @@
+This repository will be the collection of the codes that I will do in the journey of being an ML engineer. <br>I'm determined to achieve the milestone surprizingly in less amount of time as most of people do. <br>If you come accross this repository, do remember me in your prayers and use any piece of code if you find helpful. Thank you
